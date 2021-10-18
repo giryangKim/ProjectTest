@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-menu.jsp입니다.
+menu.jsp입니다. 메뉴가 메뉴지!
 </body>
 </html>
 
